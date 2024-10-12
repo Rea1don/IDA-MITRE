@@ -6,7 +6,7 @@ Plugin Features:
 
 How to use ? : 
 
-1 - Download the plugin & drop it in plugin folder for IDA
-2 - HotKey : CTRL-SHIFT-M  Or Open the plugin option from EDIT tap 
+- Download the plugin & drop it in plugin folder for IDA
+- HotKey : CTRL-SHIFT-M  Or Open the plugin option from EDIT tap 
 
 ![Mitre Image](https://github.com/Rea1don/IDA-MITRE/blob/main/Mitre.png?raw=true)
